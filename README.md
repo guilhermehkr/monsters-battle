@@ -4,9 +4,9 @@ Repository containing my solution for Battle of monsters challenge which include
 - backend
 - data modeling
 - creating API with Express.js
-- implementing the battle of monster algorithm
+- implementing the battle of monster algorithm with recursion
 - frontend
-- randomly pick opponent algorithm
+- randomly pick opponent algorithm with recursion
 
 There are also some problem solving algorithm exercices as well
 
