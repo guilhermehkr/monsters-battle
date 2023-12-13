@@ -1,6 +1,6 @@
 # Monsters battle challenge
 
-Repository containing my solution for Battle of monsters challenge which contains
+Repository containing my solution for Battle of monsters challenge which includes
 - backend
 - data modeling
 - creating API with Express.js
